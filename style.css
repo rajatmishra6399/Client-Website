@@ -40,7 +40,7 @@
   }
 
   #banner {
-    height: 75vh;
+/*     height: 75vh; */
     overflow: hidden;
     z-index: 9;
   }
@@ -329,7 +329,7 @@ padding: 0px 6px;
     }
 
     #banner{
-        max-height: 40vh;
+        max-height: 60vh;
     }
 
     #speakers .speakers-listing{
